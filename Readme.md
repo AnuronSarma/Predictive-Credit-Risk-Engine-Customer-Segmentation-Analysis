@@ -1,4 +1,4 @@
-# Loan Approval Prediction and Clustering Analysis
+# Predictive-Credit-Risk-Engine-Customer-Segmentation-Analysis
 
 This project focuses on analyzing and predicting loan approval statuses using supervised machine learning models. Additionally, it employs unsupervised clustering techniques to identify distinct patterns among businesses based on various financial and demographic features.
 
